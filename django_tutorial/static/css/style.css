@@ -1,0 +1,9 @@
+li:hover{
+    background-color: gray;
+}
+
+.hello{
+    color: red;
+    border-radius: 10px;
+    background-color: green;
+}
